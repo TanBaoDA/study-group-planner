@@ -1,6 +1,6 @@
 # Instructions for AI coding agents
 
-This repo is a **mid-fidelity clickable prototype** (React 19 + TypeScript + Vite 8 + Tailwind v4) of the Study Group Planner, a university HCI course project. Read `README.md` first for features and structure.
+This repo is a TU Delft HAIP (CSE12B) student project: a **mid-fidelity clickable prototype** (React 19 + TypeScript + Vite 8 + Tailwind v4) of the Study Group Planner, a university HCI course project. Read `README.md` first for features and structure.
 
 ## Commands
 

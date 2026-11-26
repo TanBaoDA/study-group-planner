@@ -1,8 +1,10 @@
 # Study Group Planner
 
+> **TU Delft student project** for the course CSE12B *Human Computer Interaction & AI-Assisted Prototyping* (HAIP), 2026-27, Group 36. Made by students for coursework; not an official TU Delft product.
+
 A mid-fidelity, clickable web prototype that helps first-year international students find a study time that works for the whole group. An organiser creates an event, shares a link, everyone marks when they are free, and the app shows the times that fit **everyone**.
 
-Built for TU Delft CSE12B *Human Computer Interaction & AI-Assisted Prototyping* (HAIP), Group 36. The code was generated and iterated in **Figma Make** (file `testHAIP`) and exported here.
+The code was generated and iterated in **Figma Make** (file `testHAIP`) and exported here.
 
 ![Availability grid](docs/screenshots/3-availability.png)
 
@@ -83,6 +85,9 @@ Key concepts in code:
 After any change, run `pnpm test`, `pnpm typecheck` and `pnpm build`, and click through all four screens.
 
 ## Hướng dẫn nhanh (Tiếng Việt)
+
+Đây là project môn HAIP (CSE12B) của sinh viên TU Delft, nhóm 36.
+
 
 1. Cài Node.js 22 và pnpm (`npm i -g pnpm`).
 2. `git clone` repo này, vào thư mục, chạy `pnpm install` rồi `pnpm dev`, mở link hiện ra.
