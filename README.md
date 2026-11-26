@@ -83,14 +83,3 @@ Key concepts in code:
 - Prompts we already used in Figma Make are in [`docs/figma-make-prompts.md`](docs/figma-make-prompts.md) (useful for the D3 "AI Use" section).
 
 After any change, run `pnpm test`, `pnpm typecheck` and `pnpm build`, and click through all four screens.
-
-## Hướng dẫn nhanh (Tiếng Việt)
-
-Đây là project môn HAIP (CSE12B) của sinh viên TU Delft, nhóm 36.
-
-
-1. Cài Node.js 22 và pnpm (`npm i -g pnpm`).
-2. `git clone` repo này, vào thư mục, chạy `pnpm install` rồi `pnpm dev`, mở link hiện ra.
-3. Muốn sửa bằng AI khác: đưa cả repo (hoặc file zip) cho AI và bảo nó đọc `AGENTS.md` trước. Sửa xong chạy `pnpm test` và `pnpm build` để chắc không hỏng gì.
-4. Muốn sửa trong Figma Make: xin quyền vào file `testHAIP` hoặc duplicate nó; hoặc tải các file trong `src/` lên khung chat của Make.
-5. Giữ đúng phong cách mid-fi: chỉ đen trắng xám, một font, ảnh là ô xám có dấu X, bước thời gian 15 phút.
